@@ -12,6 +12,7 @@ public class HelloTest {
 
     @Test
     public void helloTest() throws Exception {
+        // test
         assertEquals(true, true);
     }
 
