@@ -13,7 +13,7 @@ public class HelloTest {
     @Test
     public void helloTest() throws Exception {
         // im just a comment
-        assertEquals(true, true);
+        assertEquals(true, false);
     }
 
 }
